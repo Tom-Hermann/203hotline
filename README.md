@@ -1,6 +1,6 @@
 # 203hotline
 
-1. Compute the binomial coefficient $\binom{n}{k}$ fiven k and n
+1. Compute the binomial coefficient $\binom{n}{k}$ given k and n
 
 2. Compare the binomial and Poisson distrubution given the average duration of calls, by printing:
    - the probabilities of getting nsimultaneous calls (for nincreasing from 0 to 50),
